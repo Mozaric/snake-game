@@ -1,5 +1,7 @@
 # 貪吃蛇
 
+[Demo 影片請點此](https://drive.google.com/file/d/1dE4vyt3Dug-zHK9gOp9O1BzkOOUThM3j/view?usp=sharing)
+
 經典的貪吃蛇遊戲。
 
 ## 開始畫面
