@@ -39,3 +39,7 @@ Option 內可以更改三個遊戲設定，分別是畫面寬度、高度與遊�
 Help 內有遊戲說明與控制方法。
 
 ![](./pics/snake06.PNG)
+
+## 程式流程圖
+
+![](./pics/snake-game-flowchart.png)
